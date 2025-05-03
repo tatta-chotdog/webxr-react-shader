@@ -7,7 +7,7 @@ export const Title = () => {
 
   return (
     <div className="title-container">
-      <h1 className="title-text">WebXR React Shader</h1>
+      <h1 className="title-text">WebXR React GLSL</h1>
     </div>
   );
 };
