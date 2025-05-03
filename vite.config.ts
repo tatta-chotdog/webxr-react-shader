@@ -18,7 +18,7 @@ export default defineConfig({
     glsl(),
     react(),
     basicSsl({
-      name: "webxr-react-debug",
+      name: "webxr-react-glsl",
     }),
   ],
 });
